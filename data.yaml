@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: ['Bladed Weapon', 'Explosive', 'Firearm', 'Person', 'Projectile Weapon']
+
+roboflow:
+  workspace: data-analytics-hoyko
+  project: lethal-weapon-detection-2
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/data-analytics-hoyko/lethal-weapon-detection-2/dataset/5

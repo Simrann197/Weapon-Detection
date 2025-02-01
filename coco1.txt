@@ -1,0 +1,5 @@
+Bladed Weapon
+Explosive
+Firearm
+Person
+Projectile Weapon
