@@ -1,7 +1,0 @@
-path: E:/Weapon-Detection/temp  # Root path to your dataset
-train: images/train  # Relative path to train images
-val: images/val  # Relative path to val images
-
-nc: 2  # Number of classes
-names: ['Gun', 'Knife']  # Class names
-  
